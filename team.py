@@ -1,5 +1,5 @@
 def greet():
-    print("Hello team!")
+    print("Hello team! Welcome to the feature branch.")
 
 def farewell():
-    print("Goodbye team!")
+    print("See you later from feature branch!")
